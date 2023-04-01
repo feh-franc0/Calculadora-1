@@ -2,4 +2,4 @@
 
 ## cronometro Javascript
 
-![foto do cronometro](./imgProject.png)
+![foto do cronometro](./img/imgProject.png)

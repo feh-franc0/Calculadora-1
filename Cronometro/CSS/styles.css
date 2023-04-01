@@ -62,7 +62,11 @@
     background-color: #175cff;
     color: rgb(255, 255, 255);
 }
-#pauseBtn,
+#pauseBtn{
+    display: block;
+}
+
+
 #resumeBtn{
-    display: none;
+    display: block;
 }
